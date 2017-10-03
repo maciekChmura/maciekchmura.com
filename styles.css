@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500');
+/*
+.nav-fixed-top{
+  position: fixed !important;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+*/
 
 .mono {
   font-family: 'Source Code Pro', monospace;
@@ -7,10 +15,30 @@
   word-wrap: break-word;
 }
 .terminal {
-  margin: auto;
-  height: 300px;
-  max-width: 500px;
-  margin-top: 100px;
-  border: 1px solid red;
   
+  height: 300px;
+  
+  margin-top: 100px;
+  /*border: 1px solid red;*/
+
+}
+/*
+section {
+  height: 90vh;
+}
+*/
+.container {
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+.column {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  border: 1px solid blue;
+  
+  
+}
+
+.tile {
+  border: 1px solid red;
 }

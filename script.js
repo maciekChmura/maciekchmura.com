@@ -53,7 +53,7 @@ var typed = new Typed(".typed2",
 
 
 
-
+//Bulma control
   document.addEventListener('DOMContentLoaded', function () {
     
       // Get all "navbar-burger" elements
