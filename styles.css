@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500');
+
+.mono {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 24px;
+  word-wrap: break-word;
+}
+.terminal {
+  margin: auto;
+  height: 300px;
+  max-width: 500px;
+  margin-top: 100px;
+  border: 1px solid red;
+  
+}
