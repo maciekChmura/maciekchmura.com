@@ -17,7 +17,7 @@ a {
   
   height: 300px;
   
-  margin-top: 100px;
+  margin-top: 160px;
   /*border: 1px solid red;*/
 
 }
@@ -34,7 +34,7 @@ a {
   
 }
 .terminal {
-  height: 70vh;
+  height: 60vh;
   
 }
 section {
@@ -115,6 +115,14 @@ section {
 .contact {
   
 }
+.fa {
+  padding-right: 5px;
+}
+.contact-items {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
 progress[value] {
   -webkit-appearance: none;
   appearance: none;
@@ -131,7 +139,7 @@ progress[value]::-webkit-progress-value {
          -webkit-linear-gradient(top, 
                                  rgba(255, 255, 255, .25), 
                                  rgba(0, 0, 0, .25)),
-         -webkit-linear-gradient(left, #FF9A03, #FFC400);
+         -webkit-linear-gradient(left, #FDA222, #ff1162);
   border-radius: 4px; 
   background-size: 35px 20px, 100% 100%, 100% 100%;
   transition: transform 2s;
