@@ -3,7 +3,7 @@ var typed = new Typed(".typed1",
   {
     strings: [
       "Hello, World!",
-      "I'm Maciek Chmura"],
+      "I'm Maciek"],
     typeSpeed: 40,
     backSpeed: 15,
     backDelay: 1200,
