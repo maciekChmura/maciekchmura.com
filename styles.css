@@ -36,16 +36,9 @@ a {
   font-size: 30px; 
   text-transform: uppercase;
 }
-.nav {
-  
-}
+
 .terminal {
   height: 40vh;
-  
-}
-section {
-  /*background-color: rgb(189, 189, 189); */
-  
   
 }
 .line {
@@ -98,9 +91,6 @@ section {
   min-height: 100px;
   font-family: "Press Start 2P"
 }
-.resume {
-  
-}
 .skills {
   display: flex;
   justify-content: space-between;
@@ -136,9 +126,6 @@ section {
 .date {
   font-weight: 300;
   margin-bottom: -16px;
-}
-.contact {
-  
 }
 .fa {
   padding-right: 5px;
